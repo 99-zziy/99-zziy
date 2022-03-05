@@ -1,9 +1,22 @@
+<div align=left><h1>💁 About Me</h1></div>
+
+**📧 Email : wldud060960@gmail.com** <br>
+**💻 Github : [https://github.com/99-zziy](https://github.com/99-zziy)** <br> 
+**📝 Blog : [https://velog.io/@zzi99](https://velog.io/@zzi99)** <br>
+**🏫 Education : 동국대학교 컴퓨터공학과 (2018.03 ~ )** <br>
+**🏢 Experience : Ez-Trust (2021.05 ~ 2022.02)** <br>
+<br>
+<br>
+
+<div align=left><h1>GitHub Stats🐥</h1></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=99-zziy&&show_icons=true&theme=radical)
 
+<br>
+<br>
 
-<div align=center><h1>⚒️Tech Stack⚒️</h1></div>
-<div align=center> 
+<div align=left><h1>⚒️Tech Stack⚒️</h1></div>
+<div align=left> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 

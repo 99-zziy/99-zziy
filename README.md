@@ -1,7 +1,7 @@
 <div align=left><h1>💁 About Me</h1></div>
 
 **📧 Email : wldud060960@gmail.com** <br>
-**💻 Github : [https://github.com/99-zziy](https://github.com/99-zziy)** <br> 
+**💻 Github : [https://github.com/99-zziy](https://github.com/99-zziy)** 
 **📝 Blog : [https://velog.io/@zzi99](https://velog.io/@zzi99)** <br>
 **🏫 Education : 동국대학교 컴퓨터공학과 (2018.03 ~ )** <br>
 **🏢 Experience : Ez-Trust (2021.05 ~ 2022.02)** <br>

@@ -8,13 +8,6 @@
 <br>
 <br>
 
-<div align=left><h1>GitHub Stats🐥</h1></div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=99-zziy&&show_icons=true&theme=radical)
-
-<br>
-<br>
-
 <div align=left><h1>⚒️Tech Stack⚒️</h1></div>
 <div align=left> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -41,3 +34,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+<div align=left><h1>GitHub Stats🐥</h1></div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=99-zziy&&show_icons=true&theme=radical)
+
+<br>
+<br>

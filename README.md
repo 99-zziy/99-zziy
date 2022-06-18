@@ -29,7 +29,24 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-<br>
-<br>
+<div align=left><h1>📚studying...📚</h1></div>
+<div align=left> 
+  <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=Next.js&logoColor=000000"> 
+  <img src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=Typescript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/recoil-3578e5?style=for-the-badge&logo=recoil&logoColor=black"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/React Query-ff4154?style=for-the-badge&logo=React Query&logoColor=white"> 
+  <img src="https://img.shields.io/badge/emotion-d36ac2?style=for-the-badge&logo=emotion&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Storybook-DB7093?style=for-the-badge&logo=Storybook&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/webpack-8dd6f9?style=for-the-badge&logo=webpack&logoColor=white"> 
+  <img src="https://img.shields.io/badge/jest-c21325?style=for-the-badge&logo=jest&logoColor=white"> 
+  <img src="https://img.shields.io/badge/testing library-e34c26?style=for-the-badge&logo=testing library&logoColor=white">
+  <br>
+ 
+  <br>
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F99-zziy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

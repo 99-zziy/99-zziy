@@ -1,5 +1,6 @@
 <div align=left><h1>💁 About Me</h1></div>
 
+
 **📧 Email : wldud060960@gmail.com** <br>
 **💻 Github : [https://github.com/99-zziy](https://github.com/99-zziy)** <br>
 **📝 Blog : [https://velog.io/@zzi99](https://velog.io/@zzi99)** <br>
@@ -37,13 +38,4 @@
 <br>
 <br>
 
-<div align=left><h1>GitHub Stats🐥</h1></div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=99-zziy&&show_icons=true&theme=radical)
-
-<br>
-<br>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F99-zziy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)

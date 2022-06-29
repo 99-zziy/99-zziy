@@ -12,5 +12,5 @@
 
 <br/>
 
-✨ *Blog...*  **[지영 log](https://velog.io/@zzi99)** 
+🍉 *나의 블로그 !*  **[지영 log](https://velog.io/@zzi99)** 
 
